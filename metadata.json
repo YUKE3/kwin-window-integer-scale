@@ -1,7 +1,7 @@
 {
     "KPlugin": {
         "Name": "Integer Scale window",
-        "Description": "Scale up a window by 2x, 4x, 16x, and so on...",
+        "Description": "Scale a window 2x or 0.5x",
         "Icon": "preferences-system-windows",
 
         "Authors": [
