@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Name": "Integer Scale window",
+        "Description": "Scale up a window by 2x, 4x, 16x, and so on...",
+        "Icon": "preferences-system-windows",
+
+        "Authors": [
+            {
+                "Email": "yke9086@gmail.com",
+                "Name": "YUKE"
+            }
+        ],
+        "Id": "kwin-window-integer-scale",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/YUKE3/kwin-window-integer-scale"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js",
+    "KPackageStructure": "KWin/Script"
+}
